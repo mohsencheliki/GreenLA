@@ -1,0 +1,4 @@
+body { font-family:tahoma; padding:20px; background:#f5fff5; }
+label { display:block; margin-top:10px; }
+input, textarea { width:100%; padding:6px; margin-top:4px; }
+button { margin-top:10px; padding:8px 15px; background:#3a8f3a; color:white; border:none; border-radius:5px; cursor:pointer; }
